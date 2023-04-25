@@ -3,7 +3,8 @@
 
 ## CSC 384 - Introduction to Artificial Intelligence 
 ### A3 - Game Tree Search
-Solve the Othello game using: MiniMax and Alpha Beta Pruning. Speed it up using a Depth Limit and caching states. Created two heuristics for alpha beta pruning (Node ordering heuristic and my own heuristic)
+Solve the Othello game using: MiniMax and Alpha Beta Pruning. Speed it up using a Depth Limit and caching states. Created two heuristics for alpha beta pruning (Node ordering heuristic and my own heuristic) 
+Grade: 93%
 
 ### A2 - Constraint Satisfaction
 1. Propagators. Implemented two constraint propagators—a Forward Checking constraint prop- agator, and a Generalized Arc Consistence (GAC) constraint propagator
